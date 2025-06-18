@@ -15,7 +15,7 @@ header{
   padding: 10px;
   align-items: flex-end;
   flex-wrap: wrap;
-  background-image: url("/assets/img/confetti.jpg");
+  background-image: url('/assets/img/confetti.jpg');
   color: white;
   text-decoration: none;
   background-position: bottom center;
